@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CricHeroesTest</string>
+    <string name="str_scoring">Scoring</string>
+    <string name="str_comments">Comments</string>
+    <string name="add_a_comment">Add a comment...</string>
+    <string name="str_max_count">/280</string>
+    <string name="str_react">React</string>
+    <string name="str_reply">Reply</string>
+    <string name="str_replies">Replies</string>
+    <string name="view_previous_comments">View Previous comments</string>
+    <string name="boi">BOI</string>
+    <string name="_9_1">9/1</string>
+    <string name="boi_require_14_runs_to_win">BOI require 14 runs to win</string>
+    <string name="baiju_pulparambil">Baiju Pulparambil</string>
+    <string name="_0_0">0(0)</string>
+    <string name="_1">1</string>
+    <string name="quick_options">Quick options</string>
+    <string name="boi_requires_14_run_to_win">BOI requires 14 run to win</string>
+    <string name="no_comments_found">No comments found</string>
+</resources>
